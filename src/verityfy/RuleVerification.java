@@ -7,7 +7,7 @@ import static utils.PackageUtil.getClasssFromPackage;
 
 public class RuleVerification {
     /**
-     * 此处类型分为base，safety，realTime, all
+     * 此处类型分为base，safety，realTime, allaljshdiua GDSIFHBaslibfde
      * @param type
      */
     public static void verifyType(String type)throws NoSuchMethodException, IllegalAccessException, InvocationTargetException {
